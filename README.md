@@ -19,6 +19,11 @@ Servicers rarely reissue a full amortization schedule after extra principal paym
 - Fixed-rate, fully amortizing mortgages
 - Informational only — not financial, tax, or legal advice
 
-## Status
+## App
 
-Repository bootstrap. Application code coming from the local Mortgage Paydown Planner codebase.
+Vite + React + TypeScript. Local app notes: [docs/app-readme.md](docs/app-readme.md).
+
+```bash
+npm install
+npm run dev
+```
